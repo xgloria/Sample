@@ -6,4 +6,4 @@ Here is the *journey of jade001*.
 
 <iframe src="Jade001_SampleMap.html" height="600" width="700"></iframe>
 
-
+<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[4]:</div>
