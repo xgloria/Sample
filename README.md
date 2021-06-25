@@ -43,9 +43,11 @@ In order to manipulate code with images easily, the images should better be put 
 
 
 #### 3. Before we publish the map package online, create a github repository.
-basic tutorials:https://www.youtube.com/watch?v=BA_c3bGQXlQ
+basic tutorials:
 
-               https://www.youtube.com/watch?v=LT3wU4XAzWI
+https://www.youtube.com/watch?v=BA_c3bGQXlQ
+
+https://www.youtube.com/watch?v=LT3wU4XAzWI
 
 -In the Github Pages, Theme Chooser, choose your favourite theme. (This page is shown in [minimal](https://github.com/pages-themes/minimal).) Then, _config.yml, and index.md will appear in your repository.
 
@@ -56,11 +58,15 @@ and index.md controls the content, which is the right area of the minimal style 
 ** Then, we can start to commit and push the package folder from our computer. **
  
 Method:use RStudio for desktop, but Github desktop works in the same mechanism.
-follow this tutorial step by step: https://www.youtube.com/watch?v=liMd1L8KDpc
+follow this tutorial step by step: 
 
-download link for RStudio:  https://rstudio.com/products/rstudio/download/
+https://www.youtube.com/watch?v=liMd1L8KDpc
+
+download link for RStudio: 
+
+https://rstudio.com/products/rstudio/download/
  
->Upload the Leaflet package to the repository using Rstudio: commit and then push 
+Upload the Leaflet package to the repository using Rstudio: commit and then push 
  
 When you find the folders in the repository, open the index.md file. 
 
