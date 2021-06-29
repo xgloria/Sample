@@ -1,4 +1,4 @@
-# Project Kleutghen Jade001 Mapping sample
+# Project Kleutghen Jade001 Mapping sample complete ver see Jade001_mapsample
 
 ## Documents: 
 Code: Jade001.ipnb
